@@ -1,6 +1,6 @@
 {
   "name": "simple-calc-ops",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple calculator operator",
   "main": "index.js",
   "scripts": {
