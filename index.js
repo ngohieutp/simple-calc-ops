@@ -16,6 +16,11 @@ function div(a, b) {
   return a / b;
 }
 
+function mod(a, b) {
+  return a % b;
+}
+
+
 function sumAll(arr) {
   return _.reduce(arr, (total, item) => total + item, 0);
 }
@@ -25,5 +30,6 @@ module.exports = {
 	minus,
 	mul,
 	div,
+	mod,
 	sumAll
 }
